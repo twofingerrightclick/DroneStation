@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Setting Name="DroneId" Value="72cd92a7-63ec-41c5-8884-ef5e0d705925" />
+  <Setting Name="StationLanIp" Value="10.147.17.210" />
+  <Setting Name="DroneLanIp" Value="10.147.17.17" />
+  <Setting Name="HighQualityVideo" Value="raspivid -hf -n -t 0 -w 960 -h 720 -fps 30 -b 2000000 -co 0 -sh 50 -sa 0 -o - | gst-launch-1.0 -e -vvvv fdsrc ! h264parse ! rtph264pay pt=96 config-interval=5 ! udpsink host=#STATION_ADDRESS# port=5600" />
+  <Setting Name="LowQualityVideo" Value="raspivid -hf -n -t 0 -w 320 -h 240 -fps 30 -b 250000 -co 0 -sh 50 -sa 0 -o - | gst-launch-1.0 -e -vvvv fdsrc ! h264parse ! rtph264pay pt=96 config-interval=5 ! udpsink host=#STATION_ADDRESS# port=5600" />
+  <Setting Name="MedQualityVideo" Value="raspivid -hf -n -t 0 -w 640 -h 480 -fps 30 -b 600000 -co 0 -sh 50 -sa 0 -o - | gst-launch-1.0 -e -vvvv fdsrc ! h264parse ! rtph264pay pt=96 config-interval=5 ! udpsink host=#STATION_ADDRESS# port=5600" />
+  <Setting Name="StopVideo" Value="killall raspivid" />
+  <Setting Name="PathPutty" Value="C:\Program Files\PuTTY\putty.exe" />
+  <Setting Name="PathGStreamer" Value="C:\gstreamer\1.0\x86_64\bin\gst-launch-1.0.exe" />
+</Settings>

@@ -1,0 +1,16 @@
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\bin\Release\DroneStation.exe.config
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\bin\Release\DroneStation.exe
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\bin\Release\DroneStation.pdb
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\MainWindow.baml
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\MainWindow.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\Settings.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\App.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation_MarkupCompile.cache
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation_MarkupCompile.lref
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\Settings.baml
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation.g.resources
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation.Properties.Resources.resources
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation.csproj.GenerateResource.Cache
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation.exe
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation.pdb
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Release\DroneStation.csprojResolveAssemblyReference.cache

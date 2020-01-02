@@ -1,0 +1,92 @@
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\bin\Debug\DroneStation.exe.config
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.exe
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.pdb
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\bin\Debug\DroneStation.exe
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\bin\Debug\DroneStation.pdb
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.csprojResolveAssemblyReference.cache
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\MainWindow.baml
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\MainWindow.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\App.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation_MarkupCompile.cache
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation_MarkupCompile.lref
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.g.resources
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.Properties.Resources.resources
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.csproj.GenerateResource.Cache
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\bin\Debug\DroneStation.exe.config
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\bin\Debug\DroneStation.exe
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\bin\Debug\DroneStation.pdb
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation.csprojResolveAssemblyReference.cache
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\MainWindow.baml
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\MainWindow.g.cs
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\SettingsWindow.g.cs
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\App.g.cs
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation_MarkupCompile.cache
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation_MarkupCompile.lref
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\SettingsWindow.baml
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation.g.resources
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation.Properties.Resources.resources
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation.csproj.GenerateResource.Cache
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation.exe
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\DroneStation.pdb
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\ScriptWindow.g.cs
+C:\Users\Ole\SkyDrive\Raspberry\DroneStation\obj\Debug\ScriptWindow.baml
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\ScriptWindow.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\SettingsWindow.g.cs
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\ScriptWindow.baml
+C:\Users\Ole\OneDrive\Raspberry\DroneStation\obj\Debug\SettingsWindow.baml
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\bin\Debug\DroneStation.exe.config
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.exe
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.pdb
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\bin\Debug\DroneStation.exe
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\bin\Debug\DroneStation.pdb
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.csprojResolveAssemblyReference.cache
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\MainWindow.baml
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\MainWindow.g.cs
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\ScriptWindow.g.cs
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\SettingsWindow.g.cs
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\App.g.cs
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation_MarkupCompile.cache
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation_MarkupCompile.lref
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\ScriptWindow.baml
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\SettingsWindow.baml
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.g.resources
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.Properties.Resources.resources
+C:\Users\ogulb\OneDrive\Raspberry\DroneStation\obj\Debug\DroneStation.csproj.GenerateResource.Cache
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\bin\Debug\DroneStation.exe.config
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\bin\Debug\DroneStation.exe
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\bin\Debug\DroneStation.pdb
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.csprojAssemblyReference.cache
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\MainWindow.baml
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\MainWindow.g.cs
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\ScriptWindow.g.cs
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\SettingsWindow.g.cs
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\App.g.cs
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation_MarkupCompile.cache
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation_MarkupCompile.lref
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\ScriptWindow.baml
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\SettingsWindow.baml
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.g.resources
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.Properties.Resources.resources
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.csproj.GenerateResource.cache
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.csproj.CoreCompileInputs.cache
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.exe
+C:\Users\saffron\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.pdb
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\bin\Debug\DroneStation.exe.config
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\bin\Debug\DroneStation.exe
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\bin\Debug\DroneStation.pdb
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.csprojAssemblyReference.cache
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\MainWindow.baml
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\MainWindow.g.cs
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\ScriptWindow.g.cs
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\SettingsWindow.g.cs
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\App.g.cs
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation_MarkupCompile.cache
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation_MarkupCompile.lref
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\ScriptWindow.baml
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\SettingsWindow.baml
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.g.resources
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.Properties.Resources.resources
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.csproj.GenerateResource.cache
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.csproj.CoreCompileInputs.cache
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.exe
+C:\Users\saffron\OneDrive - Eastern Washington University\Documents\droneStation\DroneStation\DroneStation\obj\Debug\DroneStation.pdb
